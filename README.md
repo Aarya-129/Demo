@@ -1,2 +1,3 @@
 # Demo
-A practice clone Spotify website project
+A practice project
+A clone project of Spotify
